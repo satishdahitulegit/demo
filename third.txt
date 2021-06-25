@@ -2,7 +2,11 @@ third file from subdemo-1 branch.
 
 Created new file on subdemo-1 branch directly.
 
+Another line - first edit.
+
 Another line - second edit.
+
+Another line - third edit.
 
 Another line - fourth edit.
 
