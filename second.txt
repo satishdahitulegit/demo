@@ -3,6 +3,8 @@ second file in main branch of demo repository.
 
 first
 second
-thrid
+
+
+no change
 
 end of file.
