@@ -1,0 +1,6 @@
+This is fork test file.
+
+Please send pull request to repositry owner to merge this file.
+
+
+End of file.
